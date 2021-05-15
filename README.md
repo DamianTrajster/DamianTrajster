@@ -18,5 +18,7 @@ I am 35 years old and for now I study Developer Fullstack at Formar / Digital Ho
 
 ---
 
+[![Spotify](myproject-r3pbiorv1-damiantrajster.vercel.app)]()
+
 
 
