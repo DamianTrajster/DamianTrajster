@@ -6,16 +6,17 @@
 
 
 ---
-Here are some ideas to get you started:
+### 💻 Web Developer 
+/ * My name is  Damian Trajster  and I live in Buenos Aires, Argentina.
+I am 35 years old and for now I study Developer Fullstack at Formar / Digital House, where I have the opportunity to start training as a  web developer , something I have always wanted to do. Since then I have been taking several courses to learn and master some of the most used and demanded web technologies, such as HTML, CSS, Javascript. * /
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br>
 
-<!-- LINKS -->
+🚀 Coding
+
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> 
+
+---
+
+
 
