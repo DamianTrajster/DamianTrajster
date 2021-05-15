@@ -1,8 +1,11 @@
-### Hi there 👋
+### console.log("Damian Deimos! 👋") 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/DeimosDamian?color=%231DA1F2&label=DamianDeimos&logo=twitter&style=for-the-badge)](https://twitter.com/DeimosDamian)
+
+<img width="auto" src="DamianDeimos.jpg">
 
 
-**DamianTrajster/DamianTrajster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!-- LINKS -->
 
