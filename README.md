@@ -7,7 +7,8 @@
 
 <img width="auto" src="DamianDeimos.jpg">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/DeimosDamian?color=%231DA1F2&label=DamianDeimos&logo=twitter&style=for-the-badge)](https://twitter.com/DeimosDamian)
+[<p align="center">![Twitter Follow](https://img.shields.io/twitter/follow/DeimosDamian?color=%231DA1F2&label=DamianDeimos&logo=twitter&style=for-the-badge)](https://twitter.com/DeimosDamian)
+
 ---
 ### 💻 Web Developer 
 / * My name is  Damian Trajster  and I live in Buenos Aires, Argentina.
@@ -26,10 +27,10 @@ I am 35 years old and for now I study Developer Fullstack at Formar / Digital Ho
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianTrajster&show_icons=true&theme=dark)](https://github.com/DamianTrajster/github-readme-stats)
+[<p align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianTrajster&show_icons=true&theme=dark)](https://github.com/DamianTrajster/github-readme-stats)
 
 <!-- Lenguajes usados -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianTrajster&layout=compact&theme=dark)](https://github.com/DamianTrajster/github-readme-stats)
+[<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianTrajster&layout=compact&theme=dark)](https://github.com/DamianTrajster/github-readme-stats)
 
 ---
 <img width="auto" src="gifprogramer.gif">
