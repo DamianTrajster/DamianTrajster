@@ -1,7 +1,7 @@
 
 
 ### console.log("Damian Deimos! 👋") 
-<img width="center" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
+<img width="auto" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeimosDamian?color=%231DA1F2&label=DamianDeimos&logo=twitter&style=for-the-badge)](https://twitter.com/DeimosDamian)
 
@@ -23,5 +23,4 @@ I am 35 years old and for now I study Developer Fullstack at Formar / Digital Ho
 
 
 
-<img width="center" src="gifprogramer.gif
-">
+<img width="auto" src="gifprogramer.gif">
