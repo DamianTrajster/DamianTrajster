@@ -14,7 +14,6 @@
 / * My name is  Damian Trajster  and I live in Buenos Aires, Argentina.
 I am 35 years old and for now I study Developer Fullstack at Formar / Digital House, where I have the opportunity to start training as a  web developer , something I have always wanted to do. Since then I have been taking several courses to learn and master some of the most used and demanded web technologies, such as HTML, CSS, Javascript.<br> * /
 
-<br>
 
 ### 🚀 Coding
 
