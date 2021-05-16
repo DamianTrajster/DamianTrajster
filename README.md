@@ -20,7 +20,9 @@ I am 35 years old and for now I study Developer Fullstack at Formar / Digital Ho
 <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> 
 
 ---
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianTrajster&show_icons=true&theme=dark)](https://github.com/DamianTrajster/github-readme-stats)
 
 
 <img width="auto" src="gifprogramer.gif">
+
+
