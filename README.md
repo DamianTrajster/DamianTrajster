@@ -1,13 +1,13 @@
 
 
 ### console.log("Damian Deimos! 👋") 
-<img width="auto" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/DeimosDamian?color=%231DA1F2&label=DamianDeimos&logo=twitter&style=for-the-badge)](https://twitter.com/DeimosDamian)
+
+
 
 <img width="auto" src="DamianDeimos.jpg">
 
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/DeimosDamian?color=%231DA1F2&label=DamianDeimos&logo=twitter&style=for-the-badge)](https://twitter.com/DeimosDamian)
 ---
 ### 💻 Web Developer 
 / * My name is  Damian Trajster  and I live in Buenos Aires, Argentina.
