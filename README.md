@@ -7,7 +7,7 @@
 
 
 
-[<p align="center">![Twitter Follow](https://img.shields.io/twitter/follow/DeimosDamian?color=%231DA1F2&label=DamianDeimos&logo=twitter&style=for-the-badge)](https://twitter.com/DeimosDamian)
+
 
 ---
 ### 💻 Web Developer 
