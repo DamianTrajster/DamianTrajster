@@ -11,8 +11,8 @@
 
 ---
 ### 💻 Web Developer 
-/ * My name is  Damian Trajster  and I live in Buenos Aires, Argentina.
-I am 35 years old and for now I study Developer Fullstack at Formar / Digital House, where I have the opportunity to start training as a  web developer , something I have always wanted to do. Since then I have been taking several courses to learn and master some of the most used and demanded web technologies, such as HTML, CSS, Javascript.<br> * /
+/ * Mi nombre es Damián Trajster y vivo en Buenos Aires, Argentina, nací el 29 de octubre de 1985,soy Developer Fullstack y Docente, desde el 2017 he estado tomando varios cursos y trayectos para aprender y dominar algunas de las tecnologías  más utilizadas y demandadas, como , Javascript, PHP y JAVA. <br>
+Me gustaría desarrollarme profesionalmente para ampliar mi experiencia y conocimiento para el buen desempeño de las funciones asignadas, me considero una persona autodidacta, creativa y responsable.<br> * /
 
 
 ### 🚀 Coding
