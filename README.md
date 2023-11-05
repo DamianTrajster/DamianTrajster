@@ -11,8 +11,9 @@
 
 ---
 ### 💻 Web Developer 
-/ * Mi nombre es Damián Trajster y vivo en Buenos Aires, Argentina, nací el 29 de octubre de 1985,soy Developer Fullstack y Docente, desde el 2017 he estado tomando varios cursos y trayectos para aprender y dominar algunas de las tecnologías  más utilizadas y demandadas, como , Javascript, PHP y JAVA. <br>
-Me gustaría desarrollarme profesionalmente para ampliar mi experiencia y conocimiento para el buen desempeño de las funciones asignadas, me considero una persona autodidacta, creativa y responsable.<br> * /
+/ *Mi nombre es Damián Trajster, y soy un apasionado docente y experimentado programador con habilidades especializadas en los lenguajes de programación PHP, JavaScript, C#. Mi pasión por la enseñanza y la programación me ha permitido combinar dos mundos en mi carrera profesional, lo que me ha llevado a convertirme en un educador altamente eficiente y un desarrollador de software competente.<br>
+A lo largo de mi carrera, he tenido la oportunidad de enseñar y guiar a estudiantes de diferentes niveles de experiencia en programación y diseño web. He diseñado y desarrollado programas educativos que se adaptan a las necesidades específicas de mis alumnos, utilizando metodologías innovadoras para mantenerlos motivados y comprometidos con el aprendizaje. Mi enfoque es proporcionar una comprensión profunda de los conceptos de programación y fomentar la resolución creativa de problemas.<br>
+Como docente y programador de PHP, JavaScript, C#, tengo la satisfacción de unir mi pasión por la enseñanza con mi amor por la programación. Mi experiencia y conocimiento en ambos campos me permiten brindar una educación de calidad y desarrollar soluciones de software innovadoras. Estoy emocionado de continuar mi viaje profesional y seguir contribuyendo al crecimiento y éxito de mis estudiantes y la comunidad de programadores en general.<br> * /
 
 
 ### 🚀 Coding
